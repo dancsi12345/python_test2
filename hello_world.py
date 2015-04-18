@@ -1,5 +1,8 @@
 # python file test
 
-print "Hello World"
+def PrintSomeSutff():
+    print "Hello World"
+    print "Hello from github"
 
-print "Hello from github"
+if __name__ == "__main__":
+    PrintSomeSutff()
